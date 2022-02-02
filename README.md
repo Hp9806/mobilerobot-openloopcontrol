@@ -71,19 +71,15 @@ if __name__ == '__main__':
 Insert image here
 
 
-<br/>
-<br/>
-<br/>
-<br/>
+![](./img/1.jpeg)
+
+![](./img/2.jpeg)
 
 ## MobileRobot Movement Video:
 
 Embed video here
 
-<br/>
-<br/>
-<br/>
-<br/>
+https://youtu.be/wwXwRkWuXac
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
