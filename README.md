@@ -9,25 +9,29 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 ## Procedure
 
-Step1:
+## Step1 :
 
-<br/>
+ Start
 
-Step2:
 
-<br/>
+## Step2:
 
-Step3:
+ From robomaster import robot
 
-<br/>
 
-Step4:
+## Step3:
 
-<br/>
+ Initialize the type
 
-Step5:
 
-<br/>
+## Step4: 
+
+Run the program to move the robo moster through our condition
+
+
+## Step5 : 
+
+ Close
 
 ## Program
 ```python
